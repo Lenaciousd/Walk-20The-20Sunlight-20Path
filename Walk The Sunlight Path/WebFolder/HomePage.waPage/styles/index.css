@@ -3,6 +3,28 @@
 	Changes to this CSS file might be lost when it is regenerated.
 */
 
+#label3 {
+	 z-index: 39;
+	 width: 29px;
+	 height: 13px;
+	 top: 99px;
+	 left: 503px;
+	
+	 position: absolute;
+	 
+}
+
+#video1 {
+	 z-index: 39;
+	 width: 500px;
+	 height: 280px;
+	 top: 117px;
+	 left: 503px;
+	
+	 position: absolute;
+	 
+}
+
 #richText12 {
 	 z-index: 1;
 	 width: 110px;
@@ -106,10 +128,10 @@
 
 #label2 {
 	 z-index: 1;
-	 width: 29px;
-	 height: 13px;
-	 top: 418px;
-	 left: -40px;
+	 width: 26px;
+	 height: 16px;
+	 top: 416.5px;
+	 left: -37px;
 	
 	 position: absolute;
 	 
@@ -117,7 +139,7 @@
 
 #textField3 {
 	 z-index: 1;
-	 width: 520px;
+	 width: 503px;
 	 height: 33px;
 	 top: 408px;
 	 left: -6px;
