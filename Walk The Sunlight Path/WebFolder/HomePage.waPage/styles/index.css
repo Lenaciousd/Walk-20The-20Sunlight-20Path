@@ -3,87 +3,10 @@
 	Changes to this CSS file might be lost when it is regenerated.
 */
 
-#container2 {
-	 z-index: 5;
-	 width: 260px;
-	 height: 50px;
-	 top: 35px;
-	 left: -1px;
-	
-	 position: absolute;
-	 
-}
-
-#button8 {
-	 z-index: 4;
-	 width: 20px;
-	 height: 22px;
-	 top: 3px;
-	 right: 80px;
-	
-	 position: absolute;
-	 
-}
-
-#button7 {
-	 z-index: 3;
-	 width: 20px;
-	 height: 22px;
-	 top: 3px;
-	 right: 57px;
-	
-	 position: absolute;
-	 
-}
-
-#button6 {
-	 z-index: 2;
-	 width: 25px;
-	 height: 22px;
-	 top: 3px;
-	 right: 29px;
-	
-	 position: absolute;
-	 
-}
-
-#button5 {
+#richText12 {
 	 z-index: 1;
-	 width: 23px;
-	 height: 22px;
-	 top: 3px;
-	 right: 3px;
-	
-	 position: absolute;
-	 
-}
-
-#label1 {
-	 z-index: 33;
-	 width: 29px;
-	 height: 13px;
-	 top: 215px;
-	 left: 715px;
-	
-	 position: absolute;
-	 
-}
-
-#fileUpload2 {
-	 z-index: 33;
-	 width: 260px;
-	 height: 35px;
-	 top: 204px;
-	 left: 749px;
-	
-	 position: absolute;
-	 
-}
-
-#richText6 {
-	 z-index: 1;
-	 width: 113px;
-	 height: 22px;
+	 width: 110px;
+	 height: 72px;
 	 top: 0px;
 	 left: 0px;
 	
@@ -91,11 +14,72 @@
 	 
 }
 
-#menuItem5 {
-	 z-index: 5;
-	 width: 113px;
-	 height: 22px;
+#menuItem12 {
+	 z-index: 3;
+	 width: 110px;
+	 height: 72px;
 	 top: 0px;
+	 left: 0px;
+	
+	 position: absolute;
+	 line-height: 0px;
+	 font-size: 20px;
+	 
+}
+
+#richText11 {
+	 z-index: 1;
+	 width: 109px;
+	 height: 72px;
+	 top: 0px;
+	 left: 0px;
+	
+	 position: absolute;
+	 
+}
+
+#menuItem11 {
+	 z-index: 2;
+	 width: 110px;
+	 height: 72px;
+	 top: 0px;
+	 left: 0px;
+	
+	 position: absolute;
+	 line-height: 0px;
+	 font-size: 20px;
+	 
+}
+
+#richText6 {
+	 z-index: 1;
+	 width: 109px;
+	 height: 72px;
+	 top: 0px;
+	 left: 0px;
+	
+	 position: absolute;
+	 
+}
+
+#menuItem6 {
+	 z-index: 1;
+	 width: 110px;
+	 height: 72px;
+	 top: 0px;
+	 left: 0px;
+	
+	 position: absolute;
+	 line-height: 0px;
+	 font-size: 20px;
+	 
+}
+
+#menuBar3 {
+	 z-index: 33;
+	 width: 333px;
+	 height: 74px;
+	 top: 1px;
 	 left: 0px;
 	
 	 position: absolute;
@@ -108,11 +92,10 @@
 }
 
 #textField1 {
-	 z-index: 6;
-	 width: 1123px;
-	 height: 71px;
+	 width: 1588px;
+	 height: 75px;
 	 top: 0px;
-	 left: 0px;
+	 left: -3px;
 	
 	 position: absolute;
 	 font-size: 31px;
@@ -121,115 +104,27 @@
 	 
 }
 
-#richText4 {
+#label2 {
 	 z-index: 1;
-	 width: 113px;
-	 height: 30px;
-	 top: 0px;
-	 left: 0px;
+	 width: 29px;
+	 height: 13px;
+	 top: 418px;
+	 left: -40px;
 	
 	 position: absolute;
 	 
 }
 
-#menuItem4 {
-	 z-index: 4;
-	 width: 113px;
-	 height: 31px;
-	 top: 0px;
-	 left: 0px;
-	
-	 position: absolute;
-	 
-}
-
-#richText3 {
+#textField3 {
 	 z-index: 1;
-	 width: 113px;
-	 height: 30px;
-	 top: 0px;
-	 left: 0px;
+	 width: 520px;
+	 height: 33px;
+	 top: 408px;
+	 left: -6px;
 	
 	 position: absolute;
-	 
-}
-
-#menuItem3 {
-	 z-index: 3;
-	 width: 113px;
-	 height: 31px;
-	 top: 0px;
-	 left: 0px;
-	
-	 position: absolute;
-	 
-}
-
-#richText2 {
-	 z-index: 1;
-	 width: 113px;
-	 height: 30px;
-	 top: 0px;
-	 left: 0px;
-	
-	 position: absolute;
-	 
-}
-
-#menuItem2 {
-	 z-index: 2;
-	 width: 113px;
-	 height: 31px;
-	 top: 0px;
-	 left: 0px;
-	
-	 position: absolute;
-	 
-}
-
-#richText1 {
-	 z-index: 1;
-	 width: 113px;
-	 height: 30px;
-	 top: 0px;
-	 left: 0px;
-	
-	 position: absolute;
-	 
-}
-
-#menuItem1 {
-	 z-index: 1;
-	 width: 113px;
-	 height: 31px;
-	 top: 0px;
-	 left: 0px;
-	
-	 position: absolute;
-	 
-}
-
-#menuBar1 {
-	 z-index: 4;
-	 width: 115px;
-	 height: 148px;
-	 top: 124px;
-	 left: -2px;
-	
-	 position: absolute;
-	 
-}
-
-#textField2 {
-	 z-index: 8;
-	 width: 1125px;
-	 height: 52px;
-	 top: 71px;
-	 left: -1px;
-	
-	 position: absolute;
-	 font-size: 14px;
 	 text-align: center;
+	 font-size: 22px;
 	 background-color: rgb(255, 170, 170);
 	 
 }
@@ -238,35 +133,10 @@
 	 z-index: 14;
 	 width: 497px;
 	 height: 335px;
-	 top: 122px;
-	 left: 110px;
+	 top: 75px;
+	 left: 0px;
 	
 	 position: absolute;
-	 
-}
-
-#label2 {
-	 z-index: 26;
-	 width: 29px;
-	 height: 13px;
-	 top: 132px;
-	 left: 574px;
-	
-	 position: absolute;
-	 
-}
-
-#textField3 {
-	 z-index: 26;
-	 width: 516px;
-	 height: 33px;
-	 top: 122px;
-	 left: 608px;
-	
-	 position: absolute;
-	 background-color: rgb(255, 170, 170);
-	 text-align: center;
-	 font-size: 22px;
 	 
 }
 
