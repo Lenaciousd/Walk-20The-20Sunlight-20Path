@@ -3,6 +3,83 @@
 	Changes to this CSS file might be lost when it is regenerated.
 */
 
+#container2 {
+	 z-index: 5;
+	 width: 260px;
+	 height: 50px;
+	 top: 35px;
+	 left: -1px;
+	
+	 position: absolute;
+	 
+}
+
+#button8 {
+	 z-index: 4;
+	 width: 20px;
+	 height: 22px;
+	 top: 3px;
+	 right: 80px;
+	
+	 position: absolute;
+	 
+}
+
+#button7 {
+	 z-index: 3;
+	 width: 20px;
+	 height: 22px;
+	 top: 3px;
+	 right: 57px;
+	
+	 position: absolute;
+	 
+}
+
+#button6 {
+	 z-index: 2;
+	 width: 25px;
+	 height: 22px;
+	 top: 3px;
+	 right: 29px;
+	
+	 position: absolute;
+	 
+}
+
+#button5 {
+	 z-index: 1;
+	 width: 23px;
+	 height: 22px;
+	 top: 3px;
+	 right: 3px;
+	
+	 position: absolute;
+	 
+}
+
+#label1 {
+	 z-index: 33;
+	 width: 29px;
+	 height: 13px;
+	 top: 215px;
+	 left: 715px;
+	
+	 position: absolute;
+	 
+}
+
+#fileUpload2 {
+	 z-index: 33;
+	 width: 260px;
+	 height: 35px;
+	 top: 204px;
+	 left: 749px;
+	
+	 position: absolute;
+	 
+}
+
 #richText6 {
 	 z-index: 1;
 	 width: 113px;
@@ -26,7 +103,7 @@
 }
 
 #waf-body {
-	 background-color: rgb(242, 239, 239);
+	 background-color: rgb(255, 255, 170);
 	 
 }
 
@@ -135,8 +212,8 @@
 #menuBar1 {
 	 z-index: 4;
 	 width: 115px;
-	 height: 153px;
-	 top: 122px;
+	 height: 148px;
+	 top: 124px;
 	 left: -2px;
 	
 	 position: absolute;
@@ -159,8 +236,8 @@
 
 #Homepage_Image {
 	 z-index: 14;
-	 width: 460px;
-	 height: 300px;
+	 width: 497px;
+	 height: 335px;
 	 top: 122px;
 	 left: 110px;
 	
@@ -168,29 +245,28 @@
 	 
 }
 
-#textField4.waf-state-focus {
-	 background-image:url("data:image/svg+xml;base64, PD94bWwgdmVyc2lvbj0iMS4wIiA/PjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB2aWV3Qm94PSIwIDAgMSAxIiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJub25lIj48bGluZWFyR3JhZGllbnQgaWQ9IndhZi1pZS1ncmFkaWVudCIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiIHg9IjAiIHk9IjAiIHgyPSIwIiB5Mj0iMTAwJSI+PHN0b3Agc3RvcC1jb2xvcj0iIzAwOWZjNyIgb2Zmc2V0PSIwJSIgc3RvcC1vcGFjaXR5PSIxIiAvPjxzdG9wIHN0b3AtY29sb3I9IiMwMDlmYzciIG9mZnNldD0iNjclIiBzdG9wLW9wYWNpdHk9IjEiIC8+PHN0b3Agc3RvcC1jb2xvcj0iIzAwNzQ4YyIgb2Zmc2V0PSIxMDAlIiBzdG9wLW9wYWNpdHk9IjEiIC8+PC9saW5lYXJHcmFkaWVudD48cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSJ1cmwoI3dhZi1pZS1ncmFkaWVudCkiIC8+PC9zdmc+");
-	 background-image:-webkit-gradient(linear,0% 0%, 0% 100%,color-stop(0, rgb(0,159,199)),color-stop(0.67, rgb(0,159,199)),color-stop(1, rgb(0,116,140)));
-	 background-image:-webkit-linear-gradient(bottom, rgb(0,159,199) 0%,rgb(0,159,199) 67%,rgb(0,116,140) 100%);
-	 background-image:-moz-linear-gradient(bottom, rgb(0,159,199) 0%,rgb(0,159,199) 67%,rgb(0,116,140) 100%);
-	 background-image:-ms-linear-gradient(bottom, rgb(0,159,199) 0%,rgb(0,159,199) 67%,rgb(0,116,140) 100%);
-	 background-image:-o-linear-gradient(bottom, rgb(0,159,199) 0%,rgb(0,159,199) 67%,rgb(0,116,140) 100%);
-	 background-image:linear-gradient(bottom, rgb(0,159,199) 0%,rgb(0,159,199) 67%,rgb(0,116,140) 100%);
-	 font-size: 14px;
-	 background-color: rgb(78, 178, 178);
+#label2 {
+	 z-index: 26;
+	 width: 29px;
+	 height: 13px;
+	 top: 132px;
+	 left: 574px;
+	
+	 position: absolute;
 	 
 }
 
-#textField4 {
-	 z-index: 24;
-	 width: 419px;
-	 height: 297px;
-	 top: 123px;
-	 left: 568px;
+#textField3 {
+	 z-index: 26;
+	 width: 516px;
+	 height: 33px;
+	 top: 122px;
+	 left: 608px;
 	
 	 position: absolute;
-	 font-size: 30px;
+	 background-color: rgb(255, 170, 170);
 	 text-align: center;
+	 font-size: 22px;
 	 
 }
 
